@@ -78,8 +78,8 @@ module.exports = User;
 Kitten.find(function (err, kittens) {
   if (err) return console.error(err);
   console.log(kittens)
-})
-/*
+});
+*/
 
 
   
